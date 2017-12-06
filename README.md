@@ -1,6 +1,6 @@
 # tennis-game<br>
 This is a tennis game with some AI features.<br>
-This game is a small fun game.<br>It doesn't consist any styling.<br>It is ade in javascript programming language.
+This game is a small fun game.<br>It doesn't consist much styling.<br>It is ade in javascript programming language.
 <br>
 Features:<br>
 There are two sides in this tennis game, as always, where one side is controlled by the player and the other side is controlled by the computer which is also reffered as Artificial Intelligence.<br>
